@@ -4,7 +4,9 @@ from langchain.retrievers.document_compressors import EmbeddingsFilter
 from langchain.retrievers import ContextualCompressionRetriever
 
 oembed = OllamaEmbeddings(model="mxbai-embed-large")
-def mri_db_retriever(query):
+
+def mimic_db_retriever(query):
+ 
     vectordb = Chroma(
         persist_directory = "../data/embeddings/all_embed_db",
         embedding_function = oembed

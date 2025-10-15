@@ -87,7 +87,7 @@ def lateral_get_heatmap(image_path: str) -> Image.Image:
     N_LABELS = 14
     # Load the saved model
     lateral_model = ResNet50(out_size=N_LABELS)
-    lateral_model.load_state_dict(torch.load('../models/weights/frontal_best_model.pth'))
+    lateral_model.load_state_dict(torch.load(r'D:\CODES\MedXRay-CAD\models\weights\lateral_best_model.pth', map_location=device))
     lateral_model = lateral_model.to(device)
     lateral_model.eval()  # Set the model to evaluation mode
     
@@ -126,7 +126,7 @@ def frontal_get_heatmap(image_path: str) -> Image.Image:
     N_LABELS = 14
     # Load the saved model
     best_model = DenseNet121(out_size=N_LABELS)
-    best_model.load_state_dict(torch.load('../models/weights/frontal_best_model.pth'))
+    best_model.load_state_dict(torch.load(r'D:\CODES\MedXRay-CAD\models\weights\frontal_best_model.pth', map_location=device))
     best_model = best_model.to(device)
     best_model.eval()  # Set the model to evaluation mode
     
