@@ -1,0 +1,94 @@
+image_name,classifications,generated_report,original_report
+p10136619_s53423027.jpg,"{'Lung Opacity': 0.6342626, 'Pleural Other': 0.57335436}"," EXAMINATION: CHEST (PA AND LAT)
+
+INDICATION: Pulmonary Opacity, Pleural Other
+
+TECHNIQUE: Chest PA and lateral
+
+COMPARISON: Previous imaging for comparison
+
+FINDINGS: The heart is mildly enlarged with dextro positioning. The aorta is moderate a mildly tortuous. There is a diffuse mild interstitial abnormality, probably due to mild pulmonary edema. Lung volumes are low. No pleural effusion or pneumothorax is seen.
+The heart size is mildly enlarged with prominent perihilar and basilar pulmonary vasculature suggestive of pulmonary edema. There is a focal consolidation in the right upper lobe worrisome for infection, and subtle patchy consolidations in the left lung difficult to differentiate from underlying edema. The costophrenic angles are blunted, which could be due to trace pleural effusions. The aorta is calcified and tortuous. The cardiac silhouette is mildly enlarged. No overt pulmonary edema is seen.
+The bilateral nodular opacities that most likely represent nipple shadows are noted. There are no clips projecting over the breast. The imaged upper abdomen is unremarkable. Chronic deformity of the posterior left sixth and seventh ribs are noted.
+
+IMPRESSION: Mild pulmonary edema with a right upper lobe consolidation that may be infectious. The chronic rib deformation should be considered when interpreting findings. Further investigation, such as bronchoscopy or lung biopsy, may be necessary to rule out alternative causes of the opacities and consolidations. ","                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with hypoxemia, ? infection vs pulmonary edema 
+ // interval change
+ 
+ IMPRESSION: 
+ 
+ Asymmetrically distributed combined alveolar and interstitial opacities have
+ slightly improved in the interval. Although such rapid improvement suggests an
+ acute process such as pulmonary edema, coexisting infection is possible,
+ particularly in the left perihilar region. Additionally, the coarseness of the
+ interstitial opacities raises concern for underlying chronic interstitial
+ process. If this pattern fails to resolve radiographically, high-resolution
+ chest CT may be helpful for more complete characterization if warranted
+ clinically.
+"
+p10337896_s53482443.jpg,"{'Support Devices': 0.84642136, 'Pleural Effusion': 0.66009575, 'Edema': 0.5096576}"," EXAMINATION: CHEST (PA AND LAT)
+
+INDICATION: Support Devices, Pleural Effusion, Edema
+
+TECHNIQUE: Chest PA and lateral
+
+COMPARISON: Prior
+
+FINDINGS: There is no pleural effusion or pneumothorax. Pulmonary vascular congestion is observed in both lungs. A few residual patchy linear opacities are present in the lower lung bases, which may represent residual edema or scattered subsegmental atelectasis. The endotracheal tube has its tip 2 cm above the carina, and the nasogastric tube courses through the esophagus, below the diaphragm, off the inferior borders of the film. No large effusion or confluent consolidation is detected.
+
+IMPRESSION: Persistent low lung volumes with mild pulmonary edema, possibly related to Support Devices and underlying cardiovascular conditions. ","                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man s/p large belly surgery, on pressors, looking for
+ cause.  // Please evaluate for interval change in bilateral pleural effusions.
+ Please evaluate for interval change in bilateral pleural eff
+ 
+ COMPARISON:  Comparison to prior study dated ___ at 14 59
+ 
+ IMPRESSION: 
+ 
+ Endotracheal tube and right internal jugular central line are unchanged
+ position.  Nasogastric tube is seen coursing to the level of the distal
+ esophagus but the tip is not identified. Multiple calcified lymph nodes,
+ multiple bilateral calcified parenchymal opacities and pleural calcifications
+ are unchanged consistent with prior granulomatous infection. Given the
+ extensive parenchymal abnormality, this does limit the sensitivity of plain
+ radiography.  Bilateral apical pleural thickening, left greater than right,
+ which is unchanged. There are stable bilateral layering effusions, left
+ greater than right, with probable associated compressive atelectasis in the
+ lower lobes.  No overt pulmonary edema.  Heart remains stably enlarged. 
+ Bilateral glenohumeral degenerative changes with deformity of the left humeral
+ head.
+"
+p10457876_s51750184.jpg,{'Pleural Effusion': 0.9593718}," EXAMINATION: CHEST (PA AND LAT)
+
+INDICATION: Endotracheal tube in appropriate position. Enlarged cardiac silhouette with bilateral perihilar opacities concerning for pulmonary edema, underlying pulmonary hemorrhage or infection not excluded in the appropriate clinical setting. Difficult to exclude pleural effusion particularly on the left.
+
+TECHNIQUE: Supine portable upright view of chest
+
+COMPARISON: None.
+
+FINDINGS: 
+Mild cardiomegaly is accompanied by pulmonary vascular congestion, mild edema and increasing small to moderate right pleural effusion. Asymmetrical airspace opacity in the right perihilar and basilar region may reflect asymmetrical edema or pneumonia. The endotracheal tube is seen with its tip located approximately 2.7 cm above the carina. An NG tube is seen coursing inferiorly with its tip at the GE junction. Midline sternotomy wires are noted. There is a left chest wall pacer device with leads in the region of the right atrium and right ventricle. Bilateral hilar/perihilar opacity which is somewhat unusual in overall appearance and raises potential concern for adenopathy. A small left pleural effusion with left basal opacity likely atelectasis. The heart is mildly enlarged. Bony structures are intact.
+
+IMPRESSION: 
+There is a possibility of pleural effusion, particularly on the left side of the chest. The presence of pulmonary edema or underlying pulmonary hemorrhage or infection should be considered in the appropriate clinical setting. The patient's condition requires close monitoring and further evaluation with additional imaging modalities if needed. "," WET READ: ___ ___ ___ 8:44 AM
+  The right PICC line is been removed.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with plasma cell myeloma on chemotherapy,
+ bandemia, cough, fatigue  // rule out infection     rule out infection
+ 
+ IMPRESSION: 
+ 
+ In comparison with the study of ___, there is increased
+ opacification at the left base consistent with enlarging pleural effusion and
+ volume loss in the left lower lobe.  Smaller increase in opacification seen at
+ the right base.  The right PICC line is been removed.
+ Given the extensive changes within the lungs, it would be difficult to
+ unequivocally exclude superimposed pneumonia.
+"
