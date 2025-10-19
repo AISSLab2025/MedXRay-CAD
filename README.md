@@ -1,12 +1,38 @@
-# MedXRay-CAD: XAI-based Multimodal Radiology Report Generator
-MedXRay-CAD is an end-to-end, multimodal computer-aided diagnosis (CAD) system designed to integrate chest X-ray (CXR) images and textual data for accurate multi-label disease classification and automated radiology report generation. This repository leverages state-of-the-art retrieval-augmented generation (RAG) techniques and Vision-Language Large Models (VLLMs) to deliver clinically relevant, structured reports.
+# 🩻 MEDXRAY-CAD: Multimodal Agentic Chest X-Ray Diagnosis
 
-**Disclaimer**  
-This repository and all its contents are protected under copyright law. Unauthorized use, modification, or distribution is strictly prohibited.
+> **A novel agentic AI framework for chest X-ray diagnosis combining multimodal retrieval-augmented generation (RAG), classification, and human-in-the-loop interpretability.**
 
-**License**: All Rights Reserved © 2025 AISSLab2025, MedXRay-CAD.  
-No permissions are granted for the use of this code.
+---
 
-![License: All Rights Reserved](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+## 🚀 Overview
 
+**MEDXRAY-CAD** is an intelligent, multimodal agentic system designed for automated chest X-ray (CXR) diagnosis.  
+It integrates **vision encoders**, **binary and multi-label classifiers**, and a **vector database (Chroma)** for context-aware medical retrieval.  
+The framework also features a **Gradio-based dashboard** for real-time interaction, visualization, and report generation.
 
+---
+
+## 🎯 Purpose
+
+To automate and enhance diagnostic decision-making in CXR analysis by:
+- Combining **deep visual encoders** and **retrieval-based reasoning**.
+- Leveraging **medical report embeddings** for contextual retrieval.
+- Enabling **interactive exploration** of predictions and Grad-CAM visualizations.
+
+---
+
+## 🧩 Key Components
+
+- **Binary & Multi-label Classifiers** → Detect conditions such as *Pleural Effusion*, *Pneumonia*, etc.  
+- **Vector Database (Chroma)** → Efficient storage and querying of medical report embeddings.  
+- **Agentic Workflow** → Incorporates localisation, visualisation tools etc.  
+- **Interactive Dashboard (Gradio)** → Real-time predictions, retrievals, and clinician-style queries.  
+
+---
+
+## 🛠️ Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/AISSLab2025/MedXRay-CAD.git
+cd MedXRay-CAD
