@@ -3,9 +3,7 @@
 > **A novel agentic AI framework for chest X-ray diagnosis combining multimodal retrieval-augmented generation (RAG), classification, and human-in-the-loop interpretability.**
 
 ---
-<video width="800" autoplay loop muted playsinline>
-  <source src="MedXray-CAD.mp4" type="video/mp4">
-</video>
+![Demo](MedXray-CAD.gif)
 
 ## 🚀 Overview
 
@@ -39,4 +37,5 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
 ```bash
 git clone https://github.com/AISSLab2025/MedXRay-CAD.git
 cd MedXRay-CAD
+
 
