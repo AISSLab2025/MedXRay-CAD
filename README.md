@@ -1,9 +1,19 @@
 # 🩻 MEDXRAY-CAD: Multimodal Agentic Chest X-Ray Diagnosis
 
+> **News:** This paper has been published in the **IEEE Journal of Biomedical and Health Informatics (JBHI)**.  
+> 📄 **[Read the Paper here](https://ieeexplore.ieee.org/document/11297148)**
+
 > **A novel agentic AI framework for chest X-ray diagnosis combining multimodal retrieval-augmented generation (RAG), classification, and human-in-the-loop interpretability.**
 
 ---
+
 ![Demo](MedXray-CAD.gif)
+
+<p align="center">
+  <img src="docs/MedXray-CAD-Architecture.png" width="48%" alt="MedXray CAD Architecture">
+  &nbsp; &nbsp;
+  <img src="docs/MedXray-CAD-Retrieval-Architecture.png" width="48%" alt="Retrieval Architecture">
+</p>
 
 ## 🚀 Overview
 
@@ -35,7 +45,42 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/AISSLab2025/MedXRay-CAD.git
+git clone [https://github.com/AISSLab2025/MedXRay-CAD.git](https://github.com/AISSLab2025/MedXRay-CAD.git)
 cd MedXRay-CAD
 
+## 📚 Citation
+@article{MedXrayCAD2025,
+  title={MEDXRAY-CAD: Multimodal Agentic Chest X-Ray Diagnosis},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  url={[https://ieeexplore.ieee.org/document/11297148](https://ieeexplore.ieee.org/document/11297148)}
+}
 
+## 📚 Related Work
+@inproceedings{Salem2025AutoSpineAI,
+  title={AutoSpineAI: Lightweight Multimodal CAD Framework for Lumbar Spine MRI Assessments},
+  author={Salem, S. and Habib, A. and Raza, M. and Al-Huda, Z. and Al-maqtari, O. and Ertuğrul, B. and others},
+  booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics},
+  year={2025}
+}
+
+@article{AlAntari2025Evaluating,
+  title={Evaluating AI-powered predictive solutions for MRI in lumbar spinal stenosis: a systematic review},
+  author={Al-Antari, M. A. and Salem, S. and Raza, M. and Elbadawy, A. S. and Bütün, E. and Aydin, A. A. and others},
+  journal={Artificial Intelligence Review},
+  volume={58},
+  number={8},
+  pages={221},
+  year={2025},
+  publisher={Springer}
+}
+
+@inproceedings{Raza2025MedXpert,
+  title={MedXpert-CAD: A Multimodal Multi-agentic System for Clinical Imaging Analysis via Model Context Protocol LLM-Driven Agentic Workflows},
+  author={Raza, M. and Salem, S. and Habib, A. and Abdulmahmod, O. and Kwon, H. and Hussain, J. and Al-antari, M. A.},
+  booktitle={International Workshop on Agentic AI for Medicine},
+  pages={55--64},
+  year={2025},
+  month={September},
+  publisher={Springer Nature Switzerland}
+}
