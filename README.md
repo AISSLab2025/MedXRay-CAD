@@ -47,6 +47,7 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
 ```bash
 git clone [https://github.com/AISSLab2025/MedXRay-CAD.git](https://github.com/AISSLab2025/MedXRay-CAD.git)
 cd MedXRay-CAD
+---
 
 ## 📚 Citation
 @article{MedXrayCAD2025,
