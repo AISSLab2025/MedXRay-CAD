@@ -46,10 +46,13 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
 ## 📚 Citation
 
 ```bibtex
-@article{MedXrayCAD2025,
-  title={MEDXRAY-CAD: Multimodal Agentic Chest X-Ray Diagnosis},
-  journal={IEEE Journal of Biomedical and Health Informatics},
+@article{11297148,
+  author={Raza, Mukhlis and Salem, Saied and Kwon, Hyunwook and Hussain, Jamil and Gu, Yeong Hyeon and Al-Antari, Mugahed A.},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Multimodal Knowledge-Infused VLM for Respiratory Disease Prediction and Clinical Report Generation}, 
   year={2025},
+  pages={1-14},
+  doi={10.1109/JBHI.2025.3631264},
   url={https://ieeexplore.ieee.org/document/11297148}
 }
 ```
@@ -61,7 +64,8 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
   title={AutoSpineAI: Lightweight Multimodal CAD Framework for Lumbar Spine MRI Assessments},
   author={Salem, S. and Habib, A. and Raza, M. and Al-Huda, Z. and Al-maqtari, O. and Ertuğrul, B. and others},
   booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics},
-  year={2025}
+  year={2025},
+  url={https://openreview.net/pdf?id=RKOKlm4e4U}
 }
 
 @article{AlAntari2025Evaluating,
@@ -72,7 +76,9 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
   number={8},
   pages={221},
   year={2025},
-  publisher={Springer}
+  publisher={Springer},
+  doi={10.1007/s10462-025-11185-y},
+  url={https://doi.org/10.1007/s10462-025-11185-y}
 }
 
 @inproceedings{Raza2025MedXpert,
@@ -82,6 +88,8 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
   pages={55--64},
   year={2025},
   month={September},
-  publisher={Springer Nature Switzerland}
+  publisher={Springer Nature Switzerland},
+  doi={10.1007/978-3-032-06004-4_6},
+  url={https://doi.org/10.1007/978-3-032-06004-4_6}
 }
 ```
