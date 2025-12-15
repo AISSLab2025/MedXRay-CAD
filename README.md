@@ -10,16 +10,11 @@
 ![Demo](MedXray-CAD.gif)
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="docs/MedXray-CAD-Architecture.png" width="100%" alt="MedXray CAD Architecture">
-      </td>
-      <td align="center" width="50%">
-        <img src="docs/MedXray-CAD-Retrieval-Architecture.png" width="100%" alt="Retrieval Architecture">
-      </td>
-    </tr>
-  </table>
+  <img src="docs/MedXray-CAD-Architecture.png" width="100%" alt="MedXray CAD Architecture">
+</div>
+
+<div align="center">
+  <img src="docs/MedXray-CAD-Retrieval-Architecture.png" width="100%" alt="Retrieval Architecture">
 </div>
 
 ## 🚀 Overview
