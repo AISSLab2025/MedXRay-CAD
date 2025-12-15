@@ -9,11 +9,18 @@
 
 ![Demo](MedXray-CAD.gif)
 
-<p align="center">
-  <img src="docs/MedXray-CAD-Architecture.png" width="48%" alt="MedXray CAD Architecture">
-  &nbsp; &nbsp;
-  <img src="docs/MedXray-CAD-Retrieval-Architecture.png" width="48%" alt="Retrieval Architecture">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="docs/MedXray-CAD-Architecture.png" width="100%" alt="MedXray CAD Architecture">
+      </td>
+      <td align="center" width="50%">
+        <img src="docs/MedXray-CAD-Retrieval-Architecture.png" width="100%" alt="Retrieval Architecture">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Overview
 
@@ -42,14 +49,19 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
 ---
 
 ## 📚 Citation
+
+```bibtex
 @article{MedXrayCAD2025,
   title={MEDXRAY-CAD: Multimodal Agentic Chest X-Ray Diagnosis},
   journal={IEEE Journal of Biomedical and Health Informatics},
   year={2025},
-  url={[https://ieeexplore.ieee.org/document/11297148](https://ieeexplore.ieee.org/document/11297148)}
+  url={https://ieeexplore.ieee.org/document/11297148}
 }
+```
 
 ## 📚 Related Work
+
+```bibtex
 @inproceedings{Salem2025AutoSpineAI,
   title={AutoSpineAI: Lightweight Multimodal CAD Framework for Lumbar Spine MRI Assessments},
   author={Salem, S. and Habib, A. and Raza, M. and Al-Huda, Z. and Al-maqtari, O. and Ertuğrul, B. and others},
@@ -77,3 +89,4 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
   month={September},
   publisher={Springer Nature Switzerland}
 }
+```
