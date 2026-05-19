@@ -84,7 +84,7 @@ To automate and enhance diagnostic decision-making in CXR analysis by:
 @inproceedings{Raza2025MedXpert,
   title={MedXpert-CAD: A Multimodal Multi-agentic System for Clinical Imaging Analysis via Model Context Protocol LLM-Driven Agentic Workflows},
   author={Raza, M. and Salem, S. and Habib, A. and Abdulmahmod, O. and Kwon, H. and Hussain, J. and Al-antari, M. A.},
-  booktitle={MICCAI2025: Agentic AI in Medicine Workshop MICCAI 2025 (AI for Clinical Applications)},
+  booktitle={MICCAI2025: Agentic AI in Medicine Workshop},
   pages={55--64},
   year={2025},
   month={September},
